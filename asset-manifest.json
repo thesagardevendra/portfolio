@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.842f1c09.css",
+    "main.js": "/static/js/main.0a01d138.js",
+    "static/media/hotstar.png": "/static/media/hotstar.bb4416bcfdf093e270b6.png",
+    "static/media/mobileImage.png": "/static/media/mobileImage.09571b549c2db0dce90a.png",
+    "static/media/Sagar.jpg": "/static/media/Sagar.47d918c59c6f14763cee.jpg",
+    "static/media/dark.png": "/static/media/dark.f260fea282bbdca8b3cb.png",
+    "static/media/light.png": "/static/media/light.65cfe54c4b6c1012f1c2.png",
+    "static/media/amazon.png": "/static/media/amazon.d8d7e3deee2af88eeeda.png",
+    "static/media/desktopImage.png": "/static/media/desktopImage.21530539f373ca4ed8f8.png",
+    "static/media/taskm.png": "/static/media/taskm.f766700d1338cb02ca1f.png",
+    "index.html": "/index.html",
+    "static/media/SMFGFavicon.svg": "/static/media/SMFGFavicon.da6807daff3e135159f3ae7bbeba3d00.svg",
+    "main.842f1c09.css.map": "/static/css/main.842f1c09.css.map",
+    "main.0a01d138.js.map": "/static/js/main.0a01d138.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.842f1c09.css",
+    "static/js/main.0a01d138.js"
+  ]
+}
