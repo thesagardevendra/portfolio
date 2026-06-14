@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://thesagardevendra.github.io/portfolio/sitemap.xml
